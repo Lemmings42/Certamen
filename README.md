@@ -2,7 +2,7 @@
 ## Stuff to do
 * [ ] Learn the platform
   * [x] Learn Git and markdown
-  * [ ] Learn GitHub Pages
+  * [ ] Learn Microsoft Azure
 * [ ] Back end
   * [x] Initiate NPM
     * [x] Express
@@ -19,3 +19,4 @@
     * [ ] Photos
     * [ ] Fonts
     * [x] Other?
+# <--------                     > 5/18
