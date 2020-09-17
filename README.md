@@ -1,12 +1,12 @@
 # Certamen web app
 ## Stuff to do
 * [ ] Learn the platform
-  * [ ] Learn Git and markdown
+  * [x] Learn Git and markdown
   * [ ] Learn GitHub Pages
 * [ ] Back end
-  * [ ] Initiate NPM
-    * [ ] Express
-    * [ ] Socket.io
+  * [x] Initiate NPM
+    * [x] Express
+    * [x] Socket.io
   * [ ] Link data to server
   * [ ] Create pinging logic
 * [ ] Front end

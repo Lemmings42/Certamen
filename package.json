@@ -1,0 +1,25 @@
+{
+  "name": "Certamen",
+  "version": "1.0.0",
+  "description": "An online(?) Certamen practice format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemmings42/Certamen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lemmings42/Certamen/issues"
+  },
+  "homepage": "https://github.com/Lemmings42/Certamen#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
